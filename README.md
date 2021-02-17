@@ -3,10 +3,4 @@
 ![Alt text](/img/mamre.PNG?raw=true "Title")
 
 
-![Alt text](/img/mamre.html?raw=true "Title")
-
-
-https://github.com/AdrianKriger/osm_LoD1_3Dbuildings/blob/main/img/mamre.PNG
-
-
-![alt text](https://github.com/AdrianKriger/osm_LoD1_3Dbuildings/blob/main/img/mamre.png?raw=true)
+![Alt text](/img/cput.html?raw=true "Title")
