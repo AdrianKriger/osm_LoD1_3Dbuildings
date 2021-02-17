@@ -1,7 +1,7 @@
 # osm_LoD1_3Dbuildings
 
 <img
-src=“/img/mamre.html”
+src=“img/mamre.html”
 raw=true
 alt=“mamre”
 style=“margin-right: 10px;”
