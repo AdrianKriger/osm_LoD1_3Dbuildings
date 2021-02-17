@@ -9,6 +9,3 @@ The [osm_lod1_3dbuildingmodel.ipynb](https://github.com/AdrianKriger/osm_LoD1_3D
 <img src="img/mamre.PNG" alt="alt text" width="400" height="250">
 
 ![Alt text](/img/mamre.PNG?raw=true "Title")![Alt text](/img/cput.PNG?raw=true "Title")
-
-
-
