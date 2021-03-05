@@ -6,4 +6,4 @@ The original repositories are [here](https://github.com/ualsg).
 
 The [osm_lod1_3dbuildingmodel.ipynb](https://github.com/AdrianKriger/osm_LoD1_3Dbuildings/blob/main/osm_lod1_3dbuildingmodel.ipynb) notebook should produce CityJSON files and an interactive .html which you can navigate with queriable features ~ A static .png below for reference + another of a different area.
 
-<img src="img/mamre.PNG" alt="alt text" width="500" height="300"> 
+<img src="img/mamre.PNG" alt="alt text" width="500" height="300"> <img src="img/cput.PNG" alt="alt text" width="500" height="300">
