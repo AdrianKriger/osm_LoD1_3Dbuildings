@@ -43,7 +43,7 @@ def output_citysjon(lsgeom, lsattributes):
     "datasetTitle": "LoD1 3D Building Model; CPUT_BellvilleCampus",
     "datasetReferenceDate": "2021-02",
     "geographicLocation": "Cape Town, South Africa",
-    "referenceSystem": "urn:ogc:def:crs:EPSG::32734",
+    "referenceSystem": "urn:ogc:def:crs:EPSG::32733",
     "metadataStandard": "ISO 19115 - Geographic Information - Metadata",
     "metadataStandardVersion": "ISO 19115:2014(E)"
     }
