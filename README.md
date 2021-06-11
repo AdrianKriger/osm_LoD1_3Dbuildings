@@ -2,7 +2,7 @@
 
 We follow the awesome [Filip Biljecki](https://filipbiljecki.com/) and [NUS Urban Analytics Lab](https://ual.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) and generate LoD1 3D buildings models from volunteered Public Data; namely [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap). 
 
-The original repositories (hdb3d-data and hdb3d-code) are [here](https://github.com/ualsg).  
+The original repositories (*hdb3d-data and hdb3d-code*) are [here](https://github.com/ualsg).  
 And the paper  
 `Biljecki, F.: EXPLORATION OF OPEN DATA IN SOUTHEAST ASIA TO GENERATE 3D BUILDING MODELS, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., VI-4/W1-2020, 37–44, https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-37-2020, 2020`  
 is [here](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/VI-4-W1-2020/37/2020/).
