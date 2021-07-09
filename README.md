@@ -12,4 +12,5 @@ The [osm_lod1_3dbuildingmodel.ipynb](https://github.com/AdrianKriger/osm_LoD1_3D
 <img src="img/mamre.PNG" alt="alt text" width="500" height="300"> <img src="img/cput.PNG" alt="alt text" width="500" height="300">
 
 **NOTE:**  
-This workflow is not meant to scale. Requests for an extreme amount of data from the [osm](https://en.wikipedia.org/wiki/OpenStreetMap) server is destructive to the entire community. Village, Suburb and Campus analysis only please. For a larger area (city, state) consider harvesting data via `.pbf` ([geofabric](https://download.geofabrik.de/index.html) or [planet](https://planet.osm.org/)) - raise an issue and we can work on an alternate processing strategy.
+*This workflow is not meant to scale.*  
+Requests for an extreme amount of data from the [osm](https://en.wikipedia.org/wiki/OpenStreetMap) server is destructive to the entire community. Village, Suburb and Campus analysis only please. For a larger area (city, state) consider harvesting data via `.pbf` ([geofabric](https://download.geofabrik.de/index.html) or [planet](https://planet.osm.org/)) - raise an issue and we can work on an alternate processing strategy.
