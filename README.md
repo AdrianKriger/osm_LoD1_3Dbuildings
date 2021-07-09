@@ -10,3 +10,6 @@ is [here](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/VI-4-
 The [osm_lod1_3dbuildingmodel.ipynb](https://github.com/AdrianKriger/osm_LoD1_3Dbuildings/blob/main/osm_lod1_3dbuildingmodel.ipynb) notebook should produce CityJSON files and an interactive .html which you can navigate with queriable features ~ A static .png below for reference + another of a different area.
 
 <img src="img/mamre.PNG" alt="alt text" width="500" height="300"> <img src="img/cput.PNG" alt="alt text" width="500" height="300">
+
+**NOTE:**  
+This workflow is not meant to scale. Requests for an extreme amount of data from the `osm` server is destructive to the entire community. Village, Suburb and Campus analysis only please. For a larger area (city, state) consider harvesting data via `.pbf` ([geofabric](https://download.geofabrik.de/index.html) or [planet](https://planet.osm.org/)) - raise an issue and we can work on an alternate processing strategy.
