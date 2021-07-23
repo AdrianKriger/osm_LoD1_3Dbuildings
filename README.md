@@ -1,8 +1,9 @@
 # <h align="center">Level-of-Detail 1 (LoD1) 3D Building Models from OpenStreetMap</h>
 
 <p align="center">
-<span style="color:red">Be Aware: The functionality of this repository has been improved on and is now part of a larger deliverable (https://github.com/AdrianKriger/osm_LoD1_3DCityModel - buildings and terrain).  
-</span></p> 
+<span style="color:red"> Be Aware: The functionality of this repository has been improved on and is now part of a larger deliverable (https://github.com/AdrianKriger/osm_LoD1_3DCityModel - buildings and terrain).  
+</span>
+</p> 
 
 <p align="center"> Be Aware: The functionality of this repository has been improved on and is now part of a larger deliverable (https://github.com/AdrianKriger/osm_LoD1_3DCityModel - buildings and terrain).  
 </p> 
