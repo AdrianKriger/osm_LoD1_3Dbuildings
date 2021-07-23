@@ -1,3 +1,5 @@
+<div class="alert alert-block alert-danger"><b>Be Aware:</b> The functionality of this repository has been improved on and is now part of a larger deliverable (LoD1 3D City Model *- buildings and terain*). Available at [osm_LoD1_3DCityModel](https://github.com/AdrianKriger/osm_LoD1_3DCityModel).</div>
+
 # Level-of-Detail 1 (LoD1) 3D Building Models from OpenStreetMap
 
 We follow the awesome [Filip Biljecki](https://filipbiljecki.com/) and [NUS Urban Analytics Lab](https://ual.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) and generate LoD1 3D buildings models from volunteered Public Data; namely [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap). 
