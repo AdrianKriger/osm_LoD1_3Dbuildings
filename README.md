@@ -1,8 +1,5 @@
 # <h align="center">Level-of-Detail 1 (LoD1) 3D Building Models from OpenStreetMap</h>
 
-<p align="center"> Be Aware: The functionality of this repository has been improved on and is now part of a more comprehensive deliverable (https://github.com/AdrianKriger/osm_LoD1_3DCityModel).  
-</p> 
-
 We follow the awesome [Filip Biljecki](https://filipbiljecki.com/) and [NUS Urban Analytics Lab](https://ual.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) and generate LoD1 3D buildings models from volunteered Public Data; namely [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap). 
 
 The original repositories (*hdb3d-data and hdb3d-code* ~ under MIT License) are [here](https://github.com/ualsg).  
@@ -17,3 +14,7 @@ The [osm_lod1_3dbuildingmodel.ipynb](https://github.com/AdrianKriger/osm_LoD1_3D
 **NOTE:**  
 *This workflow is not meant to scale.*  
 Requests for an extreme amount of data from the [osm](https://en.wikipedia.org/wiki/OpenStreetMap) server is destructive to the entire community. Village, Suburb and Campus analysis only please. For a larger area (city, state) consider harvesting data via `.pbf` ([geofabric](https://download.geofabrik.de/index.html) or [planet](https://planet.osm.org/)) - raise an issue and we can work on an alternate processing strategy.
+
+
+<p align="center"> **Be Aware:** The functionality of this repository has been improved on and is now part of a more comprehensive deliverable (https://github.com/AdrianKriger/osm_LoD1_3DCityModel).  
+</p>
