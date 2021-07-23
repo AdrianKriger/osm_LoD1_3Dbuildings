@@ -16,5 +16,4 @@ The [osm_lod1_3dbuildingmodel.ipynb](https://github.com/AdrianKriger/osm_LoD1_3D
 Requests for an extreme amount of data from the [osm](https://en.wikipedia.org/wiki/OpenStreetMap) server is destructive to the entire community. Village, Suburb and Campus analysis only please. For a larger area (city, state) consider harvesting data via `.pbf` ([geofabric](https://download.geofabrik.de/index.html) or [planet](https://planet.osm.org/)) - raise an issue and we can work on an alternate processing strategy.
 
 
-<h2 align="center"> **Be Aware:** The functionality of this repository has been improved on and is now part of a more comprehensive deliverable (https://github.com/AdrianKriger/osm_LoD1_3DCityModel).  
-</h2>
+<h1 align="center"> Be Aware: The functionality of this repository has been improved on and is now part of a more comprehensive deliverable (https://github.com/AdrianKriger/osm_LoD1_3DCityModel). </h1>
